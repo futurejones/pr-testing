@@ -18,7 +18,7 @@ pipeline {
         }
         stage ('Run Local CMD') {
             steps {
-                sh 'apt-get update'
+                sh 'ls'
             }
         }
     }

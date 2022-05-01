@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         //
-        MESSAGE='Hello World'
+        MESSAGE='Hello Jenkins'
    }
 
     stages {

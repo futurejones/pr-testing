@@ -1,4 +1,4 @@
 # pr-testing
 Just for testing
 
-test commit build
+test pr and push builds.
